@@ -1,0 +1,23 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|07 Aug 2010 23:30:00 -0000
+vti_extenderversion:SR|6.0.2.5516
+vti_author:SR|MY-DELL\\John Hong
+vti_modifiedby:SR|MY-DELL\\John Hong
+vti_timecreated:TR|07 Aug 2010 11:06:00 -0000
+vti_title:SR|Anne French Fine Arts
+vti_backlinkinfo:VX|z-preserve/join_email_list.php
+vti_cacheddtm:TX|20 Aug 2010 14:52:01 -0000
+vti_filesize:IR|8990
+vti_cachedtitle:SR|Anne French Fine Arts
+vti_cachedbodystyle:SR|<body bgcolor="#3D4FA3" text="#0000FF" link="#004A95" vlink="#808080" alink="#FFFF00">
+vti_cachedlinkinfo:VX|H|To_Buy_and_Sell.htm H|To_Buy_and_Sell.htm H|show_my_wall.htm H|mailto:info@anne-french.com H|g-frenchc.htm H|g-americanc.htm H|g-contemporary.htm H|g2-le-club.htm H|g2-le-club.htm H|Artist\\ List.htm S|http://www.anne-french.com/2004/BG-118.gif A|join_email_list.php S|BG/BG-120-2.jpg S|2010/1554-3.jpg H|confirm-01.htm
+vti_cachedsvcrellinks:VX|NHUS|z-preserve/To_Buy_and_Sell.htm NHUS|z-preserve/To_Buy_and_Sell.htm NHUS|z-preserve/show_my_wall.htm NHUS|mailto:info@anne-french.com NHUS|z-preserve/g-frenchc.htm NHUS|z-preserve/g-americanc.htm NHUS|z-preserve/g-contemporary.htm FHUS|z-preserve/g2-le-club.htm FHUS|z-preserve/g2-le-club.htm NHUS|z-preserve/Artist\\ List.htm NSHS|http://www.anne-french.com/2004/BG-118.gif FAUS|z-preserve/join_email_list.php NSUS|z-preserve/BG/BG-120-2.jpg NSUS|z-preserve/2010/1554-3.jpg NHUS|z-preserve/confirm-01.htm
+vti_cachedneedsrewrite:BR|true
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|true
+vti_borderaggregate:SR|t
+vti_metatags:VR|description Anne\\ French\\ Fine\\ Arts,\\ Join\\ emailing\\ list GENERATOR Microsoft\\ FrontPage\\ 6.0 ProgId FrontPage.Editor.Document
+vti_charset:SR|windows-1252
+vti_progid:SR|FrontPage.Editor.Document
+vti_generator:SR|Microsoft FrontPage 6.0

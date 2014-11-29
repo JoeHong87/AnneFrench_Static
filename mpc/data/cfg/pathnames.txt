@@ -1,0 +1,17 @@
+$$SYSTEM=../..
+$$PRIVATE=/u/web/annef1/mpc/data
+$$COMMONDOCS=/u/httpd/cgi-docs/Mercantec/PC_F_6.6.1
+$$CFG=/u/web/annef1/mpc/data/cfg
+$$USR=..
+$$PRIVATEHTDOCS=/u/web/annef1/mpc/docs
+$$CGIBIN=/u/web/annef1/cgi-local/mpc
+$$SCRIPT=/u/web/annef1/mpc/data/scripts
+$$SESSION=/u/web/annef1/mpc/data/session
+$$DATA=/u/web/annef1/mpc/data/data
+$$DB=/u/web/annef1/mpc/data/data
+$$WATSITE=/u/web/annef1/mpc/data/SiteMgr
+$$WATSITEPUBLIC=/u/web/annef1/mpc/docs/SiteMgr
+$$CONFIGFILE=/u/web/annef1/mpc/data/cfg/DataAPI.cfg
+$$PUBLISHROOT=/u/web/annef1/mpc/docs/Site
+$$SITEPRIVATEHTDOCS=/u/web/annef1/mpc/docs
+$$DEFAULTDOC=/u/web/annef1/

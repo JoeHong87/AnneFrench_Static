@@ -1,0 +1,2 @@
+Global=/u/web/annef1/mpc/data/cfg/Global.txt
+annef1=/u/web/annef1/mpc/data/cfg/pathnames.txt

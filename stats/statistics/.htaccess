@@ -1,0 +1,3 @@
+# -FrontPage-
+DirectoryIndex index.cgi
+Options +ExecCGI +FollowSymLinks

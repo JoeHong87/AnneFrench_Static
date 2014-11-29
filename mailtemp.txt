@@ -1,0 +1,9 @@
+To: john@anne-french.com
+From: webmaster@anne-french.com
+Subject: Your inquiry on our painting
+
+ [name]
+ [zip]
+ [email]
+ [phone]
+ [comments]
